@@ -78,26 +78,4 @@
 - Managing relational and non-relational database structures, cloud hosting deployment, and authentication services.
 </details>
 
----
 
-## Profile Analytics
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=safalthaf&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Analytics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalthaf&theme=merko&hide_border=true&layout=compact" alt="Languages Overview" />
-
-  <br/><br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=safalthaf&theme=merko&hide_border=true" alt="Contribution Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-  **Total Profile Views**  
-  ![](https://visitcount.itsvg.in/api?id=safalthaf&icon=0&color=0)
-
-</div>
